@@ -29,7 +29,7 @@ Education
 Recent experience
 ======
 
-Strategy Director: April 2024-Current
+Strategy Director: April 2024-May 2025
 **[NSF ALL-SPICE Alliance][https://www.nsfspicealliance.org/]**
 * Build capacity for systems change through training and facilitated conversations
 * Organize and host monthly Laha Seminar Series in Data Justice
@@ -41,7 +41,7 @@ Strategy Director: April 2024-Current
 * Secure funding and manage budgets for various initiatives
 * Represent the Alliance at conferences, meetings, and public events
 
-Senior Sustainability Analyst: Sept 2022-Current  
+Senior Sustainability Analyst: Sept 2022-May 2025  
 **[UN CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/); [Chaminade University of Honolulu](https://chaminade.edu/)**
   * Course developer and instructor for UNITAR courses: "GIS for Sustainability and Resilience in the Pacific"
   * Lead and learning coach for Data Skills programs for social sector partners: capacity building and data strategy for data-driven decision-making
