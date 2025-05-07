@@ -11,11 +11,12 @@ redirect_from:
 
 Skills & Domain Expertise
 ======
-* Nonprofit Strategy
+* Nonprofit strategy
 * Systems thinking
-* Strategic Planning
-* Data Strategy
-* Language Equity
+* Educational program design
+* Curriculum development
+* Data strategy and storytelling
+* Language equity
 * Facilitation
 * Editing
 * Research
